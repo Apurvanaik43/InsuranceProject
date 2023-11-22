@@ -1,0 +1,4 @@
+url=https://demo.guru99.com/insurance/v1/index.php
+browser=chrome
+username=apurvanaik42@gmail.com
+password=Fiserv@1234
